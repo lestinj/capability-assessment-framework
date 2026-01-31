@@ -116,3 +116,4 @@ credentials.json
 
 # Qdrant data
 qdrant_data/
+secret.yaml
